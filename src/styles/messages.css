@@ -1,0 +1,15 @@
+.error-message {
+  color: #ff4d4f;
+  padding: 8px 16px;
+  background-color: #fff2f0;
+  border: 1px solid #ffccc7;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.loading-message {
+  color: #1890ff;
+  padding: 8px 16px;
+  text-align: center;
+  margin: 10px 0;
+}

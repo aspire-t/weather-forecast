@@ -1,0 +1,18 @@
+.city-dropdown {
+  padding: 8px 12px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  background-color: white;
+}
+
+.city-selector {
+  margin-bottom: 20px;
+}
+
+.city-dropdown:focus {
+  outline: none;
+  border-color: #4a90e2;
+  box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+}
